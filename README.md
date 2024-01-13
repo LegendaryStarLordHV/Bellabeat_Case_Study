@@ -6,7 +6,7 @@ The goal of this project was to analyze smart device usage data in order to gain
 devices. I was asked to find out some trends in smart device usage and how these trends could help influence Bellabeat's marketing strategy.
 For the project, I was provided with FitBit Fitness Tracker data.
 
-![Screenshot of two initial graphs of the Tableau viz](https://github.com/LegendaryStarLordHV/Bellabeat_Case_Study/assets/43511883/b8f25a34-d820-42c3-b679-490aec96f18a)
+![Screenshot of two initial graphs of the Tableau viz](![image](https://github.com/LegendaryStarLordHV/Bellabeat_Case_Study/assets/43511883/94ab9734-9163-46ff-a427-7b0687863088))
 
 The most challenging part of the project was to prepare the data for analysis. The dataset consists of 18 files with data on 30 fitness tracker users. Before the analysis, I had to study the files, understand the data, and decide what exactly I needed for the work. I identified the discrepancies in the data and transformed some of the CSV files in order to perform the analysis. The hardest part of the preparation phase was figuring out the correct date and time format that would allow me to JOIN needed tables in SQL and transform the data accordingly. 
 
