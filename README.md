@@ -10,7 +10,7 @@ For the project, I was provided with FitBit Fitness Tracker data.
 
 The most challenging part of the project was to prepare the data for analysis. The dataset consists of 18 files with data on 33 fitness tracker users. Before the analysis, I had to study the files, understand the data, and decide what exactly I needed for the work. I identified the discrepancies in the data and transformed some of the CSV files in order to perform the analysis. The hardest part of the preparation phase was figuring out the correct date and time format that would allow me to JOIN needed tables in SQL and transform the data accordingly. 
 
-![Screenshot of Activity Type in Minutes by Day of the Week graph of the Tableau viz](https://github.com/LegendaryStarLordHV/Bellabeat_Case_Study/assets/43511883/e711859d-9248-4061-9370-ffa3e320d268)
+![Screenshot of Activity Type in Minutes by Day of the Week graph of the Tableau viz](https://github.com/LegendaryStarLordHV/Bellabeat_Case_Study/assets/43511883/8e0b76a2-2bb2-4a5f-8c0f-d8ce53ca5397)
 
 
 ## Used Instruments
