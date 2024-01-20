@@ -119,7 +119,7 @@ SELECT
     "Saturday") THEN "Weekday"
     ELSE "ERROR"
   END AS part_of_week,
-  AVG(TotalIntensity) AS avg_intensity_per_hour
+  SUM(TotalIntensity) AS total_intensity
 FROM
   `my-data-project-1-404808.case_study.hourly_intensities`
 GROUP BY
