@@ -107,7 +107,7 @@ GROUP BY
 ORDER BY
   number_naps DESC;
 
---Hourly activity according to the day of the week and part of the week
+--Total intensity according to the day of the week and part of the week
 
 SELECT
   Id,
